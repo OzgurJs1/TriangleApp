@@ -29,20 +29,6 @@
    dotnet run
 3. Ekranda İstenen Üçgen boyutunu girin.
 
-   Örnek Kullanım
-Üçgenin boyutunu girin: 5
-Sağ Açılı Üçgen:
-*
-**
-***
-****
-*****
-
-Eşkenar Üçgen:
-    *
-   ***
-  *****
- *******
-*********
 
    
+
